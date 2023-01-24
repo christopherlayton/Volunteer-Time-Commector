@@ -1,0 +1,573 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		93804BF7297F7AAC00DA86C3 /* Volunteer_Time_CommectorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93804BF6297F7AAC00DA86C3 /* Volunteer_Time_CommectorApp.swift */; };
+		93804BF9297F7AAC00DA86C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93804BF8297F7AAC00DA86C3 /* ContentView.swift */; };
+		93804BFB297F7AAD00DA86C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93804BFA297F7AAD00DA86C3 /* Assets.xcassets */; };
+		93804BFE297F7AAD00DA86C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93804BFD297F7AAD00DA86C3 /* Preview Assets.xcassets */; };
+		93804C09297F7AAD00DA86C3 /* Volunteer_Time_CommectorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93804C08297F7AAD00DA86C3 /* Volunteer_Time_CommectorTests.swift */; };
+		93804C13297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93804C12297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITests.swift */; };
+		93804C15297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93804C14297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		93804C05297F7AAD00DA86C3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 93804BEB297F7AAC00DA86C3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 93804BF2297F7AAC00DA86C3;
+			remoteInfo = "Volunteer Time Commector";
+		};
+		93804C0F297F7AAD00DA86C3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 93804BEB297F7AAC00DA86C3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 93804BF2297F7AAC00DA86C3;
+			remoteInfo = "Volunteer Time Commector";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		93804BF3297F7AAC00DA86C3 /* Volunteer Time Commector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Volunteer Time Commector.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93804BF6297F7AAC00DA86C3 /* Volunteer_Time_CommectorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer_Time_CommectorApp.swift; sourceTree = "<group>"; };
+		93804BF8297F7AAC00DA86C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		93804BFA297F7AAD00DA86C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		93804BFD297F7AAD00DA86C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		93804BFF297F7AAD00DA86C3 /* Volunteer_Time_Commector.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Volunteer_Time_Commector.entitlements; sourceTree = "<group>"; };
+		93804C04297F7AAD00DA86C3 /* Volunteer Time CommectorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Volunteer Time CommectorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93804C08297F7AAD00DA86C3 /* Volunteer_Time_CommectorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer_Time_CommectorTests.swift; sourceTree = "<group>"; };
+		93804C0E297F7AAD00DA86C3 /* Volunteer Time CommectorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Volunteer Time CommectorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93804C12297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer_Time_CommectorUITests.swift; sourceTree = "<group>"; };
+		93804C14297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer_Time_CommectorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		93804BF0297F7AAC00DA86C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93804C01297F7AAD00DA86C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93804C0B297F7AAD00DA86C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		93804BEA297F7AAC00DA86C3 = {
+			isa = PBXGroup;
+			children = (
+				93804BF5297F7AAC00DA86C3 /* Volunteer Time Commector */,
+				93804C07297F7AAD00DA86C3 /* Volunteer Time CommectorTests */,
+				93804C11297F7AAD00DA86C3 /* Volunteer Time CommectorUITests */,
+				93804BF4297F7AAC00DA86C3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		93804BF4297F7AAC00DA86C3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				93804BF3297F7AAC00DA86C3 /* Volunteer Time Commector.app */,
+				93804C04297F7AAD00DA86C3 /* Volunteer Time CommectorTests.xctest */,
+				93804C0E297F7AAD00DA86C3 /* Volunteer Time CommectorUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		93804BF5297F7AAC00DA86C3 /* Volunteer Time Commector */ = {
+			isa = PBXGroup;
+			children = (
+				93804BF6297F7AAC00DA86C3 /* Volunteer_Time_CommectorApp.swift */,
+				93804BF8297F7AAC00DA86C3 /* ContentView.swift */,
+				93804BFA297F7AAD00DA86C3 /* Assets.xcassets */,
+				93804BFF297F7AAD00DA86C3 /* Volunteer_Time_Commector.entitlements */,
+				93804BFC297F7AAD00DA86C3 /* Preview Content */,
+			);
+			path = "Volunteer Time Commector";
+			sourceTree = "<group>";
+		};
+		93804BFC297F7AAD00DA86C3 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				93804BFD297F7AAD00DA86C3 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		93804C07297F7AAD00DA86C3 /* Volunteer Time CommectorTests */ = {
+			isa = PBXGroup;
+			children = (
+				93804C08297F7AAD00DA86C3 /* Volunteer_Time_CommectorTests.swift */,
+			);
+			path = "Volunteer Time CommectorTests";
+			sourceTree = "<group>";
+		};
+		93804C11297F7AAD00DA86C3 /* Volunteer Time CommectorUITests */ = {
+			isa = PBXGroup;
+			children = (
+				93804C12297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITests.swift */,
+				93804C14297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITestsLaunchTests.swift */,
+			);
+			path = "Volunteer Time CommectorUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		93804BF2297F7AAC00DA86C3 /* Volunteer Time Commector */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93804C18297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time Commector" */;
+			buildPhases = (
+				93804BEF297F7AAC00DA86C3 /* Sources */,
+				93804BF0297F7AAC00DA86C3 /* Frameworks */,
+				93804BF1297F7AAC00DA86C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Volunteer Time Commector";
+			productName = "Volunteer Time Commector";
+			productReference = 93804BF3297F7AAC00DA86C3 /* Volunteer Time Commector.app */;
+			productType = "com.apple.product-type.application";
+		};
+		93804C03297F7AAD00DA86C3 /* Volunteer Time CommectorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93804C1B297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time CommectorTests" */;
+			buildPhases = (
+				93804C00297F7AAD00DA86C3 /* Sources */,
+				93804C01297F7AAD00DA86C3 /* Frameworks */,
+				93804C02297F7AAD00DA86C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				93804C06297F7AAD00DA86C3 /* PBXTargetDependency */,
+			);
+			name = "Volunteer Time CommectorTests";
+			productName = "Volunteer Time CommectorTests";
+			productReference = 93804C04297F7AAD00DA86C3 /* Volunteer Time CommectorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		93804C0D297F7AAD00DA86C3 /* Volunteer Time CommectorUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93804C1E297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time CommectorUITests" */;
+			buildPhases = (
+				93804C0A297F7AAD00DA86C3 /* Sources */,
+				93804C0B297F7AAD00DA86C3 /* Frameworks */,
+				93804C0C297F7AAD00DA86C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				93804C10297F7AAD00DA86C3 /* PBXTargetDependency */,
+			);
+			name = "Volunteer Time CommectorUITests";
+			productName = "Volunteer Time CommectorUITests";
+			productReference = 93804C0E297F7AAD00DA86C3 /* Volunteer Time CommectorUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		93804BEB297F7AAC00DA86C3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					93804BF2297F7AAC00DA86C3 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					93804C03297F7AAD00DA86C3 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 93804BF2297F7AAC00DA86C3;
+					};
+					93804C0D297F7AAD00DA86C3 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 93804BF2297F7AAC00DA86C3;
+					};
+				};
+			};
+			buildConfigurationList = 93804BEE297F7AAC00DA86C3 /* Build configuration list for PBXProject "Volunteer Time Commector" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 93804BEA297F7AAC00DA86C3;
+			productRefGroup = 93804BF4297F7AAC00DA86C3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				93804BF2297F7AAC00DA86C3 /* Volunteer Time Commector */,
+				93804C03297F7AAD00DA86C3 /* Volunteer Time CommectorTests */,
+				93804C0D297F7AAD00DA86C3 /* Volunteer Time CommectorUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		93804BF1297F7AAC00DA86C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93804BFE297F7AAD00DA86C3 /* Preview Assets.xcassets in Resources */,
+				93804BFB297F7AAD00DA86C3 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93804C02297F7AAD00DA86C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93804C0C297F7AAD00DA86C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		93804BEF297F7AAC00DA86C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93804BF9297F7AAC00DA86C3 /* ContentView.swift in Sources */,
+				93804BF7297F7AAC00DA86C3 /* Volunteer_Time_CommectorApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93804C00297F7AAD00DA86C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93804C09297F7AAD00DA86C3 /* Volunteer_Time_CommectorTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93804C0A297F7AAD00DA86C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93804C15297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITestsLaunchTests.swift in Sources */,
+				93804C13297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		93804C06297F7AAD00DA86C3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 93804BF2297F7AAC00DA86C3 /* Volunteer Time Commector */;
+			targetProxy = 93804C05297F7AAD00DA86C3 /* PBXContainerItemProxy */;
+		};
+		93804C10297F7AAD00DA86C3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 93804BF2297F7AAC00DA86C3 /* Volunteer Time Commector */;
+			targetProxy = 93804C0F297F7AAD00DA86C3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		93804C16297F7AAD00DA86C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		93804C17297F7AAD00DA86C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		93804C19297F7AAD00DA86C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Volunteer Time Commector/Volunteer_Time_Commector.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Volunteer Time Commector/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "LaytonSoftware.Volunteer-Time-Commector";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		93804C1A297F7AAD00DA86C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Volunteer Time Commector/Volunteer_Time_Commector.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Volunteer Time Commector/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "LaytonSoftware.Volunteer-Time-Commector";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		93804C1C297F7AAD00DA86C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "LaytonSoftware.Volunteer-Time-CommectorTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Volunteer Time Commector.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Volunteer Time Commector";
+			};
+			name = Debug;
+		};
+		93804C1D297F7AAD00DA86C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "LaytonSoftware.Volunteer-Time-CommectorTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Volunteer Time Commector.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Volunteer Time Commector";
+			};
+			name = Release;
+		};
+		93804C1F297F7AAD00DA86C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "LaytonSoftware.Volunteer-Time-CommectorUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Volunteer Time Commector";
+			};
+			name = Debug;
+		};
+		93804C20297F7AAD00DA86C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "LaytonSoftware.Volunteer-Time-CommectorUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Volunteer Time Commector";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		93804BEE297F7AAC00DA86C3 /* Build configuration list for PBXProject "Volunteer Time Commector" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93804C16297F7AAD00DA86C3 /* Debug */,
+				93804C17297F7AAD00DA86C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93804C18297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time Commector" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93804C19297F7AAD00DA86C3 /* Debug */,
+				93804C1A297F7AAD00DA86C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93804C1B297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time CommectorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93804C1C297F7AAD00DA86C3 /* Debug */,
+				93804C1D297F7AAD00DA86C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93804C1E297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time CommectorUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93804C1F297F7AAD00DA86C3 /* Debug */,
+				93804C20297F7AAD00DA86C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 93804BEB297F7AAC00DA86C3 /* Project object */;
+}
