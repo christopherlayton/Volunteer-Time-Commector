@@ -12,8 +12,8 @@
 		93804BFB297F7AAD00DA86C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93804BFA297F7AAD00DA86C3 /* Assets.xcassets */; };
 		93804BFE297F7AAD00DA86C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93804BFD297F7AAD00DA86C3 /* Preview Assets.xcassets */; };
 		93804C09297F7AAD00DA86C3 /* Volunteer_Time_CommectorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93804C08297F7AAD00DA86C3 /* Volunteer_Time_CommectorTests.swift */; };
-		93804C13297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93804C12297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITests.swift */; };
-		93804C15297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93804C14297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITestsLaunchTests.swift */; };
+		93804C13297F7AAD00DA86C3 /* Volunteer_Time_ConnectorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93804C12297F7AAD00DA86C3 /* Volunteer_Time_ConnectorUITests.swift */; };
+		93804C15297F7AAD00DA86C3 /* Volunteer_Time_ConnectorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93804C14297F7AAD00DA86C3 /* Volunteer_Time_ConnectorUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		93804BF3297F7AAC00DA86C3 /* Volunteer Time Commector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Volunteer Time Commector.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93804BF3297F7AAC00DA86C3 /* Volunteer Time Connector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Volunteer Time Connector.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		93804BF6297F7AAC00DA86C3 /* Volunteer_Time_CommectorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer_Time_CommectorApp.swift; sourceTree = "<group>"; };
 		93804BF8297F7AAC00DA86C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		93804BFA297F7AAD00DA86C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		93804BFD297F7AAD00DA86C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		93804BFF297F7AAD00DA86C3 /* Volunteer_Time_Commector.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Volunteer_Time_Commector.entitlements; sourceTree = "<group>"; };
-		93804C04297F7AAD00DA86C3 /* Volunteer Time CommectorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Volunteer Time CommectorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93804BFF297F7AAD00DA86C3 /* Volunteer_Time_Connector.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Volunteer_Time_Connector.entitlements; sourceTree = "<group>"; };
+		93804C04297F7AAD00DA86C3 /* Volunteer Time ConnectorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Volunteer Time ConnectorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		93804C08297F7AAD00DA86C3 /* Volunteer_Time_CommectorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer_Time_CommectorTests.swift; sourceTree = "<group>"; };
-		93804C0E297F7AAD00DA86C3 /* Volunteer Time CommectorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Volunteer Time CommectorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		93804C12297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer_Time_CommectorUITests.swift; sourceTree = "<group>"; };
-		93804C14297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer_Time_CommectorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		93804C0E297F7AAD00DA86C3 /* Volunteer Time ConnectorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Volunteer Time ConnectorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93804C12297F7AAD00DA86C3 /* Volunteer_Time_ConnectorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer_Time_ConnectorUITests.swift; sourceTree = "<group>"; };
+		93804C14297F7AAD00DA86C3 /* Volunteer_Time_ConnectorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer_Time_ConnectorUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,9 +75,9 @@
 		93804BEA297F7AAC00DA86C3 = {
 			isa = PBXGroup;
 			children = (
-				93804BF5297F7AAC00DA86C3 /* Volunteer Time Commector */,
-				93804C07297F7AAD00DA86C3 /* Volunteer Time CommectorTests */,
-				93804C11297F7AAD00DA86C3 /* Volunteer Time CommectorUITests */,
+				93804BF5297F7AAC00DA86C3 /* Volunteer Time Connector */,
+				93804C07297F7AAD00DA86C3 /* Volunteer Time ConnectorTests */,
+				93804C11297F7AAD00DA86C3 /* Volunteer Time ConnectorUITests */,
 				93804BF4297F7AAC00DA86C3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,23 +85,23 @@
 		93804BF4297F7AAC00DA86C3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				93804BF3297F7AAC00DA86C3 /* Volunteer Time Commector.app */,
-				93804C04297F7AAD00DA86C3 /* Volunteer Time CommectorTests.xctest */,
-				93804C0E297F7AAD00DA86C3 /* Volunteer Time CommectorUITests.xctest */,
+				93804BF3297F7AAC00DA86C3 /* Volunteer Time Connector.app */,
+				93804C04297F7AAD00DA86C3 /* Volunteer Time ConnectorTests.xctest */,
+				93804C0E297F7AAD00DA86C3 /* Volunteer Time ConnectorUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		93804BF5297F7AAC00DA86C3 /* Volunteer Time Commector */ = {
+		93804BF5297F7AAC00DA86C3 /* Volunteer Time Connector */ = {
 			isa = PBXGroup;
 			children = (
 				93804BF6297F7AAC00DA86C3 /* Volunteer_Time_CommectorApp.swift */,
 				93804BF8297F7AAC00DA86C3 /* ContentView.swift */,
 				93804BFA297F7AAD00DA86C3 /* Assets.xcassets */,
-				93804BFF297F7AAD00DA86C3 /* Volunteer_Time_Commector.entitlements */,
+				93804BFF297F7AAD00DA86C3 /* Volunteer_Time_Connector.entitlements */,
 				93804BFC297F7AAD00DA86C3 /* Preview Content */,
 			);
-			path = "Volunteer Time Commector";
+			path = "Volunteer Time Connector";
 			sourceTree = "<group>";
 		};
 		93804BFC297F7AAD00DA86C3 /* Preview Content */ = {
@@ -112,29 +112,29 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		93804C07297F7AAD00DA86C3 /* Volunteer Time CommectorTests */ = {
+		93804C07297F7AAD00DA86C3 /* Volunteer Time ConnectorTests */ = {
 			isa = PBXGroup;
 			children = (
 				93804C08297F7AAD00DA86C3 /* Volunteer_Time_CommectorTests.swift */,
 			);
-			path = "Volunteer Time CommectorTests";
+			path = "Volunteer Time ConnectorTests";
 			sourceTree = "<group>";
 		};
-		93804C11297F7AAD00DA86C3 /* Volunteer Time CommectorUITests */ = {
+		93804C11297F7AAD00DA86C3 /* Volunteer Time ConnectorUITests */ = {
 			isa = PBXGroup;
 			children = (
-				93804C12297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITests.swift */,
-				93804C14297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITestsLaunchTests.swift */,
+				93804C12297F7AAD00DA86C3 /* Volunteer_Time_ConnectorUITests.swift */,
+				93804C14297F7AAD00DA86C3 /* Volunteer_Time_ConnectorUITestsLaunchTests.swift */,
 			);
-			path = "Volunteer Time CommectorUITests";
+			path = "Volunteer Time ConnectorUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		93804BF2297F7AAC00DA86C3 /* Volunteer Time Commector */ = {
+		93804BF2297F7AAC00DA86C3 /* Volunteer Time Connector */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 93804C18297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time Commector" */;
+			buildConfigurationList = 93804C18297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time Connector" */;
 			buildPhases = (
 				93804BEF297F7AAC00DA86C3 /* Sources */,
 				93804BF0297F7AAC00DA86C3 /* Frameworks */,
@@ -144,14 +144,14 @@
 			);
 			dependencies = (
 			);
-			name = "Volunteer Time Commector";
+			name = "Volunteer Time Connector";
 			productName = "Volunteer Time Commector";
-			productReference = 93804BF3297F7AAC00DA86C3 /* Volunteer Time Commector.app */;
+			productReference = 93804BF3297F7AAC00DA86C3 /* Volunteer Time Connector.app */;
 			productType = "com.apple.product-type.application";
 		};
-		93804C03297F7AAD00DA86C3 /* Volunteer Time CommectorTests */ = {
+		93804C03297F7AAD00DA86C3 /* Volunteer Time ConnectorTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 93804C1B297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time CommectorTests" */;
+			buildConfigurationList = 93804C1B297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time ConnectorTests" */;
 			buildPhases = (
 				93804C00297F7AAD00DA86C3 /* Sources */,
 				93804C01297F7AAD00DA86C3 /* Frameworks */,
@@ -162,14 +162,14 @@
 			dependencies = (
 				93804C06297F7AAD00DA86C3 /* PBXTargetDependency */,
 			);
-			name = "Volunteer Time CommectorTests";
+			name = "Volunteer Time ConnectorTests";
 			productName = "Volunteer Time CommectorTests";
-			productReference = 93804C04297F7AAD00DA86C3 /* Volunteer Time CommectorTests.xctest */;
+			productReference = 93804C04297F7AAD00DA86C3 /* Volunteer Time ConnectorTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		93804C0D297F7AAD00DA86C3 /* Volunteer Time CommectorUITests */ = {
+		93804C0D297F7AAD00DA86C3 /* Volunteer Time ConnectorUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 93804C1E297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time CommectorUITests" */;
+			buildConfigurationList = 93804C1E297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time ConnectorUITests" */;
 			buildPhases = (
 				93804C0A297F7AAD00DA86C3 /* Sources */,
 				93804C0B297F7AAD00DA86C3 /* Frameworks */,
@@ -180,9 +180,9 @@
 			dependencies = (
 				93804C10297F7AAD00DA86C3 /* PBXTargetDependency */,
 			);
-			name = "Volunteer Time CommectorUITests";
+			name = "Volunteer Time ConnectorUITests";
 			productName = "Volunteer Time CommectorUITests";
-			productReference = 93804C0E297F7AAD00DA86C3 /* Volunteer Time CommectorUITests.xctest */;
+			productReference = 93804C0E297F7AAD00DA86C3 /* Volunteer Time ConnectorUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -208,7 +208,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 93804BEE297F7AAC00DA86C3 /* Build configuration list for PBXProject "Volunteer Time Commector" */;
+			buildConfigurationList = 93804BEE297F7AAC00DA86C3 /* Build configuration list for PBXProject "Volunteer Time Connector" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -221,9 +221,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				93804BF2297F7AAC00DA86C3 /* Volunteer Time Commector */,
-				93804C03297F7AAD00DA86C3 /* Volunteer Time CommectorTests */,
-				93804C0D297F7AAD00DA86C3 /* Volunteer Time CommectorUITests */,
+				93804BF2297F7AAC00DA86C3 /* Volunteer Time Connector */,
+				93804C03297F7AAD00DA86C3 /* Volunteer Time ConnectorTests */,
+				93804C0D297F7AAD00DA86C3 /* Volunteer Time ConnectorUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -276,8 +276,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				93804C15297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITestsLaunchTests.swift in Sources */,
-				93804C13297F7AAD00DA86C3 /* Volunteer_Time_CommectorUITests.swift in Sources */,
+				93804C15297F7AAD00DA86C3 /* Volunteer_Time_ConnectorUITestsLaunchTests.swift in Sources */,
+				93804C13297F7AAD00DA86C3 /* Volunteer_Time_ConnectorUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,12 +286,12 @@
 /* Begin PBXTargetDependency section */
 		93804C06297F7AAD00DA86C3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 93804BF2297F7AAC00DA86C3 /* Volunteer Time Commector */;
+			target = 93804BF2297F7AAC00DA86C3 /* Volunteer Time Connector */;
 			targetProxy = 93804C05297F7AAD00DA86C3 /* PBXContainerItemProxy */;
 		};
 		93804C10297F7AAD00DA86C3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 93804BF2297F7AAC00DA86C3 /* Volunteer Time Commector */;
+			target = 93804BF2297F7AAC00DA86C3 /* Volunteer Time Connector */;
 			targetProxy = 93804C0F297F7AAD00DA86C3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -474,7 +474,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Volunteer Time Commector.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Volunteer Time Commector";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Volunteer Time Connector.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Volunteer Time Connector";
 			};
 			name = Debug;
 		};
@@ -492,7 +492,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Volunteer Time Commector.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Volunteer Time Commector";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Volunteer Time Connector.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Volunteer Time Connector";
 			};
 			name = Release;
 		};
@@ -531,7 +531,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		93804BEE297F7AAC00DA86C3 /* Build configuration list for PBXProject "Volunteer Time Commector" */ = {
+		93804BEE297F7AAC00DA86C3 /* Build configuration list for PBXProject "Volunteer Time Connector" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				93804C16297F7AAD00DA86C3 /* Debug */,
@@ -540,7 +540,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		93804C18297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time Commector" */ = {
+		93804C18297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time Connector" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				93804C19297F7AAD00DA86C3 /* Debug */,
@@ -549,7 +549,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		93804C1B297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time CommectorTests" */ = {
+		93804C1B297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time ConnectorTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				93804C1C297F7AAD00DA86C3 /* Debug */,
@@ -558,7 +558,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		93804C1E297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time CommectorUITests" */ = {
+		93804C1E297F7AAD00DA86C3 /* Build configuration list for PBXNativeTarget "Volunteer Time ConnectorUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				93804C1F297F7AAD00DA86C3 /* Debug */,
